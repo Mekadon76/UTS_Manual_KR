@@ -98,15 +98,15 @@ Unity-Chan Toon Shader (UTS)는 셀셰이딩 3DCG 애니메이션을 작업하�
 
 이 툰 셰이더는 조명(light source)의 위치와 강도를 걱정할 필요 없이 캐릭터 모델 속 다양한 부분의 형태를 강조하는 등 캐릭터 디자인에서 필수적인 모든 음영 요소들을 쉽게 만들어낼 수 있도록 구성되어있습니다. 또한 음영 색상 설정은 컬러 디자인을 담당하는 사람이 쉽게 음영을 만들어낼 수 있도록 해줍니다.
 
-One of this shader’s particularly powerful features is the ability to adjust shadows using sliders within the shader itself, eliminating the need for multiple light sources.  
+본 셰이더의 특별히 강력한 기능 중 하나는, 여러개의 조명을 사용할 필요 없이 셰이더 자체 내의 슬라이더를 사용하여 음영을 조절할 수 있다는 것입니다.
 
 <img width = "800" src="Images_jpg/0713-06_01.jpg">
 
-Performance was greatly enhanced in Unity-Chan Toon Shader Ver. 2.0; the same rendering capabilities as Ver. 1.0 were retained while also allowing for an even more sophisticated look.  
+Unity-Chan Toon Shader Ver. 2.0 에서는 퍼포먼스가 아주 크게 증가하었으며, Ver. 1.0과 같은 렌더링 기능을 유지하면서도 더욱 정교한 모습을 보여줍니다.
 
 <img width = "800" src="Images_jpg/SS_SampleScene.jpg">
 
-In addition to the 3 basic layers of **Base Color**, **1st Shade Color**, and **2nd Shade Color**, colors and textures can also accept a wide variety of customization options, such as **High Color**, **Rim Light**, **MatCap** (sphere mapping), and **Emissive** (light emission).  
+**Base Color**, **1st Shade Color**, **2nd Shade Color**의 3가지 기본 레이어 외에도, 컬러와 텍스쳐는 **High Color**, **Rim Light**, **MatCap** (sphere mapping), and **Emissive** (light emission) 과 같은 다양한 사용자 지정 옵션을 수용할 수 있습니다.
 
 <img width = "800" src="Images_jpg/UT2018_UTS2_SuperTips_11.jpg">
 
