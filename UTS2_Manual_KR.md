@@ -2,7 +2,7 @@
 ### 2019/06/10 Nobuyuki Kobayashi (Unity Technologies Japan)
 ***Read this document in other languages: [日本語版](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/master/Manual/UTS2_Manual_ja.md)***  
 
-# Index
+# 
 - [【Important】 Note on upgrading to version 2.0.7 directly](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/master/Manual/UTS2_Manual_en.md#important-note-on-upgrading-to-version-207-directly)
 - [Introduction to Unity-Chan Toon Shader 2.](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/master/Manual/UTS2_Manual_en.md#introduction-to-unity-chan-toon-shader-2)
   - [【Development Environment】](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/master/Manual/UTS2_Manual_en.md#development-environment)
