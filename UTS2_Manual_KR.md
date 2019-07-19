@@ -92,11 +92,11 @@
 <img width = "800" src="Images_jpg/HiUni01.jpg">
 
 # Unity-Chan Toon Shader 2 소개.  
-Unity-Chan Toon Shader (UTS) is a toon shader for images and video that is designed to meet the needs of creators working on cel-shaded 3DCG animations.  
+Unity-Chan Toon Shader (UTS)는 셀셰이딩 3DCG 애니메이션을 작업하는 크리에이터들의 요구를 충족시키기 위하여 개발된 이미지와 영상용 툰 셰이더 입니다.
 
 <img width = "800" src="Images_jpg/UT2018_UTS2_SuperTips_10.jpg">
 
-Unity-Chan Toon Shader (UTS)는 셀셰이딩 3DCG 애니메이션을 작업하는 크리에이터들의 요구를 충족시키기 위하여 개발된 이미지와 영상용 툰 셰이더 입니다. 이 툰 셰이더는 조명(light source)의 위치와 강도를 걱정할 필요 없이 캐릭터 모델 속 다양한 부분의 형태를 강조하는 등 캐릭터 디자인에서 필수적인 모든 음영 요소들을 쉽게 만들어낼 수 있도록 구성되어있습니다. 또한 음영 색상 설정은 컬러 디자인을 담당하는 사람이 쉽게 음영을 만들어낼 수 있도록 해줍니다.
+이 툰 셰이더는 조명(light source)의 위치와 강도를 걱정할 필요 없이 캐릭터 모델 속 다양한 부분의 형태를 강조하는 등 캐릭터 디자인에서 필수적인 모든 음영 요소들을 쉽게 만들어낼 수 있도록 구성되어있습니다. 또한 음영 색상 설정은 컬러 디자인을 담당하는 사람이 쉽게 음영을 만들어낼 수 있도록 해줍니다.
 
 One of this shader’s particularly powerful features is the ability to adjust shadows using sliders within the shader itself, eliminating the need for multiple light sources.  
 
