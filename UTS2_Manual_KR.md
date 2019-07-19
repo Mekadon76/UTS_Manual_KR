@@ -96,9 +96,9 @@ Unity-Chan Toon Shader (UTS)는 셀셰이딩 3DCG 애니메이션을 작업하�
 
 <img width = "800" src="Images_jpg/UT2018_UTS2_SuperTips_10.jpg">
 
-이 툰 셰이더는 조명(light source)의 위치와 강도를 걱정할 필요 없이 캐릭터 모델 속 다양한 부분의 형태를 강조하는 등 캐릭터 디자인에서 필수적인 모든 음영 요소들을 쉽게 만들어낼 수 있도록 구성되어있습니다. 또한 음영 색상 설정은 컬러 디자인을 담당하는 사람이 쉽게 음영을 만들어낼 수 있도록 해줍니다.
+이 툰 셰이더는 광원(light source)의 위치와 강도를 걱정할 필요 없이 캐릭터 모델 속 다양한 부분의 형태를 강조하는 등 캐릭터 디자인에서 필수적인 모든 음영 요소들을 쉽게 만들어낼 수 있도록 구성되어있습니다. 또한 음영 색상 설정은 컬러 디자인을 담당하는 사람이 쉽게 음영을 만들어낼 수 있도록 해줍니다.
 
-본 셰이더의 특별히 강력한 기능 중 하나는, 여러개의 조명을 사용할 필요 없이 셰이더 자체 내의 슬라이더를 사용하여 음영을 조절할 수 있다는 것입니다.
+본 셰이더의 특별히 강력한 기능 중 하나는, 여러개의 광원을 사용할 필요 없이 셰이더 자체 내의 슬라이더를 사용하여 음영을 조절할 수 있다는 것입니다.
 
 <img width = "800" src="Images_jpg/0713-06_01.jpg">
 
@@ -106,18 +106,18 @@ Unity-Chan Toon Shader Ver. 2.0 에서는 퍼포먼스가 아주 크게 증가�
 
 <img width = "800" src="Images_jpg/SS_SampleScene.jpg">
 
-**Base Color**, **1st Shade Color**, **2nd Shade Color**의 3가지 기본 레이어 외에도, 컬러와 텍스쳐는 **High Color**, **Rim Light**, **MatCap** (sphere mapping), and **Emissive** (light emission) 과 같은 다양한 사용자 지정 옵션을 수용할 수 있습니다.
+**Base Color**, **1st Shade Color**, **2nd Shade Color**의 3가지 기본 레이어 외에도, 컬러와 텍스쳐는 **High Color**, **Rim Light**, **MatCap** (sphere mapping), 그리고 **Emissive** (발광) 등 과 같은 다양한 사용자 지정 옵션을 수용할 수 있습니다.
 
 <img width = "800" src="Images_jpg/UT2018_UTS2_SuperTips_11.jpg">
 
-The level of gradation between colors can also be adjusted in Unity in real-time.  
+색상간의 그라디에이션 수치도 유니티에서 실시간으로 조정할 수 있습니다.  
 
 <img width = "800" src="Images_jpg/UT2018_UTS2_SuperTips_13.jpg">
 
-This shader also has 2 options for creating fixed shadows necessary to the design: the **Position Map**, which assigns a set casting point to each shadow, and the **Shading Grade Map**, which can adjust shadow intensity based on the lighting.  
-There are several other convenient tools for things like **how visible eyes and eyebrows are through bangs**, which can further emphasize an anime-style look.  
-In short, Unity-Chan Toon Shader 2.0 (UTS2) makes a wide variety of character designs possible, from cel-shaded to light novel illustration styles.  
-Of course, it also supports Unity’s system shadow feature.  
+본 셰이더는 디자인에 필요한 고정 음영을 만들기 위한 2가지 옵션이 존재하는데, 각 음영에 캐스팅 포인트를 할당하는 **Position Map**과 조명에 따라 음영의 강도를 조정할 수 있는 **Shading Grade Map**이 있습니다.  
+또한 **앞머리를 통해 눈과 눈썹이 얼마나 보이는가**와 같이 몇가지 편리한 툴이 더 존재하고, 이를 통해 애니메이션 스타일을 더욱 강조할 수 있습니다. 
+요약하자면, Unity-Chan Toon Shader 2.0 (UTS2)는 셀셰이딩에서 부터 라이트노벨 일러스트 스타일까지 다양한 캐릭터 디자인을 가능하게 해줍니다.  
+유니티의 시스템 음영 기능도 물론 지원합니다. 
 
 <img width = "800" src="Images_jpg/Comp_ST_UTS2.jpg">
 
